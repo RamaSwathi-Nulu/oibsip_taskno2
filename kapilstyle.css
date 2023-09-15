@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    background-color: #B0E0E6;  
+}
+.header {
+overflow: hidden;
+background-color: #749bb0;
+}
+
+.header a {
+float: left;
+color: rgb(0, 0, 0);
+text-align: center;
+padding: 20px 123px;
+text-decoration: none;
+font-size: 16px;
+font-weight:bold;
+}
+.header a:hover{
+    background-color: #B0E0E6;            
+} 
+     
+h1{
+    text-align: center;
+    font-size: 40px; 
+    font-family:'Times New Roman', serif; 
+    font-weight:800px;
+    margin-top:40px;
+}
+h2{
+    text-align: center;
+    font-size: 40px; 
+    font-family:'Times New Roman', serif; 
+    font-weight:800px;
+    margin-top:40px;
+    margin-bottom:30px;
+    text-decoration: underline;
+}
+.tot{            
+   width: 100%; 
+    left: 0; 
+    height:auto;
+ }
+img{
+    border-radius: 20%;
+    height:220px;
+    width:20%;
+    top:10px;
+    float: left;
+    margin-right:70px;
+    margin-bottom:20px;
+    margin-left:40px;
+    margin-top:10px;
+}
+#overp{
+    margin-top: 10px;
+    margin-bottom:40px;
+    margin-left:80px;
+    margin-right:80px;
+    font-size:19px;
+}
+.per{
+    margin:60px;
+    font-size: 19px;
+}
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+text-align: center;
+margin-left:300px;
+} 
+th, td {
+padding: 10px;
+}
+.colors{
+background-color: hsl(200, 37%, 44%);
+}
+#q{
+font-size: 20px;
+text-align: center;
+}
+#auth{
+margin-left:1020px;
+}
